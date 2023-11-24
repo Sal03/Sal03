@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sal03
 - 👀 I’m interested in Machine Learning & Artificial Intelligence 
-- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate with other developers.
 
 
